@@ -1,5 +1,10 @@
 # sistemasApp
 
+Descarguen el zip y lo descomprimen:
+
+![image](https://github.com/octav20/sistemasApp/assets/97319614/25680d5e-9935-47a0-a40e-89f529836564)
+
+
 a ver putos, ahi esta el proyecto, depende de ustedes hacer que funciones
 Esas son las dependencias que use:
 ![image](https://github.com/octav20/sistemasApp/assets/97319614/9eab0132-0af9-43d2-8a63-05501360a09d)
